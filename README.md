@@ -7,7 +7,7 @@ StatsD implementation of metrics collection from Agrona
 
 ## Minimum requirements for building the project
 * Java Developer Kit (JDK) or Java Runtime Environment (JRE) Java 8 
-* Maven 3.0.5
+* Maven 3.0.5 or above.
 
 ## Steps for building this project
 mvn clean install
