@@ -40,7 +40,7 @@ public class MetricsCollectorAgrona implements MetricsCollector {
     private static int COUNTER_LABELS_BUFFER_LENGTH = 32 * 1024 * 1024;
     private static int COUNTER_VALUES_BUFFER_LENGTH = 1024 * 1024;
 
-    private static final String MONITOR_DIR_NAME = "\\kaazing";
+    private static final String MONITOR_DIR_NAME = "kaazing";
     private static final String MONITOR_FILE_NAME = "monitor";
 
     private CountersManager countersManager;
